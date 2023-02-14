@@ -1,0 +1,7 @@
+.DS_Store
+
+# Electron forge
+out
+
+# npm package
+node_modules/
