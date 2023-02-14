@@ -19,4 +19,8 @@ module.exports = {
       config: {},
     },
   ],
+  packagerConfig: {
+    icon: './images/workplace' // no file extension required
+  }
+
 };
